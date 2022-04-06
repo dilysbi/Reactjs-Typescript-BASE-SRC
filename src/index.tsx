@@ -4,7 +4,6 @@ import ResetCSS from './ResetCSS'
 import GlobalStyle from './style/Global'
 import App from './pages/App'
 import Providers from './Providers'
-import 'inter-ui'
 import 'antd/dist/antd.css'
 import './i18n'
 

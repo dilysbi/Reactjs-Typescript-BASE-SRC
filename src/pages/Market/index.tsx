@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 const Container = styled.div``
 
-const MarketplacePage = ({ history }) => {
+const MarketplacePage = () => {
   return (
     <Container>
       <div>3</div>
